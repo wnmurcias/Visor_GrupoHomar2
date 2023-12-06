@@ -1,0 +1,1 @@
+var json_3411p_8 = {"type":"FeatureCollection","name":"3411p_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":1.0,"codigo_objeto":1.0,"Nombre_obj":"","codig_atributo":null,"Nombre_atributo":"Puente vehicular"},"geometry":{"type":"MultiPoint","coordinates":[[-73.87677631752328,4.896952593784479]]}}]}
